@@ -21,23 +21,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Screenshots](#screenshots)
-- [Key Features](#key-features)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Usage Guide](#usage-guide)
-- [Architecture](#architecture)
-- [Configuration](#configuration)
-- [Building from Source](#building-from-source)
-- [Performance](#performance)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Overview
 
 DiskSight provides comprehensive visibility into storage consumption patterns across your file system. Unlike conventional disk analyzers, DiskSight employs a multi-threaded scanning engine written in Rust, delivering analysis speeds up to 10x faster than traditional tools while maintaining a minimal memory footprint.
