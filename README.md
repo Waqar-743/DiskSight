@@ -29,59 +29,6 @@ The application features three distinct visualization modes: an interactive tree
 
 ---
 
-## Screenshots
-
-### Home View
-The landing interface provides immediate access to all connected drives with real-time capacity metrics and quick-scan functionality.
-
-<p align="center">
-  <img src="docs/screenshots/home-view.png" alt="Home View" width="800" />
-</p>
-
-### Scanning Progress
-Real-time progress tracking displays current path, entries processed, and estimated completion with sub-second update intervals.
-
-<p align="center">
-  <img src="docs/screenshots/scanning-view.png" alt="Scanning View" width="800" />
-</p>
-
-### Dashboard - Treemap Visualization
-Spatial treemap visualization enables instant identification of storage-intensive directories and files through proportional area representation.
-
-<p align="center">
-  <img src="docs/screenshots/dashboard-treemap.png" alt="Dashboard Treemap" width="800" />
-</p>
-
-### Dashboard - Directory Tree
-Hierarchical tree view with size-sorted entries, expandable nodes, and contextual actions for each item.
-
-<p align="center">
-  <img src="docs/screenshots/dashboard-tree.png" alt="Dashboard Tree" width="800" />
-</p>
-
-### Dashboard - File Table
-Tabular view with sortable columns, file type indicators, and quick access to file operations.
-
-<p align="center">
-  <img src="docs/screenshots/dashboard-table.png" alt="Dashboard Table" width="800" />
-</p>
-
-### Extension Analytics
-Detailed breakdown of storage consumption by file type with visual distribution charts and filterable results.
-
-<p align="center">
-  <img src="docs/screenshots/extension-stats.png" alt="Extension Statistics" width="800" />
-</p>
-
-### Settings Panel
-Configuration matrix for theme selection, scan parameters, and advanced options.
-
-<p align="center">
-  <img src="docs/screenshots/settings-view.png" alt="Settings View" width="800" />
-</p>
-
----
-
 ## Key Features
 
 ### High-Performance Scanning Engine
