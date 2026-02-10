@@ -21,6 +21,18 @@
 
 ---
 
+## Download Now
+
+Get the latest installer for your operating system:
+
+| Platform | Download Link |
+| :--- | :--- |
+| **Windows** (64-bit) | [Download .exe Installer](https://github.com/Waqar-743/DiskSight/releases/download/v0.1.0/DiskSight_0.1.0_x64-setup.exe) |
+| **macOS** (Intel) | [Download .dmg Image](https://github.com/Waqar-743/DiskSight/releases/download/v0.1.0/DiskSight_0.1.0_x64.dmg) |
+| **Linux** (.deb) | [Download .deb Package](https://github.com/Waqar-743/DiskSight/releases/download/v0.1.0/disksight_0.1.0_amd64.deb) |
+
+---
+
 ## Overview
 
 DiskSight provides comprehensive visibility into storage consumption patterns across your file system. Unlike conventional disk analyzers, DiskSight employs a multi-threaded scanning engine written in Rust, delivering analysis speeds up to 10x faster than traditional tools while maintaining a minimal memory footprint.
